@@ -29,7 +29,7 @@ function ContainerOutsideExample() {
   <Link className='mobMenuList' activeClass='active' to='intro' spy={true} smooth={true} offset={-100} duration={200} onClick={()=>setShowMenu(false)}  > Home</Link>
   <Link className='mobMenuList' activeClass='active' to='skills' spy={true} smooth={true} offset={-50} duration={200} onClick={()=>setShowMenu(false)}> About</Link>
   <Link className='mobMenuList' activeClass='active' to='works' spy={true} smooth={true} offset={-50} duration={200} onClick={()=>setShowMenu(false)}> Projects</Link>
-  <Link className='mobMenuList' activeClass='active' to='contact' spy={true} smooth={true} offset={-50} duration={200} onClick={()=>setShowMenu(false)}> Projects</Link>
+  <Link className='mobMenuList' activeClass='active' to='contactPage' spy={true} smooth={true} offset={-50} duration={200} onClick={()=>setShowMenu(false)}> Contact</Link>
 </div>
       </nav>
     </>
