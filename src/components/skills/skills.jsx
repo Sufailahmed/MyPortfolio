@@ -17,8 +17,8 @@ What motivates me as a developer is the opportunity to tackle complex challenges
 
 Let's connect and build something great together!</span>
 <div className='d-flex align-items-center justify-content-center'>
-<a href="https://www.linkedin.com/in/ahammad-sufail-a-k"  style={{textDecoration:"none"}}><i class="fa-brands fa-linkedin mt-2 me-2 " style={{fontSize:"25px"}}></i>
-</a><a href="https://github.com/Sufailahmed" ><i class="fa-brands fa-github mt-2" style={{fontSize:"25px"}}></i></a>
+<a href="https://www.linkedin.com/in/ahammad-sufail-a-k"  style={{textDecoration:"none"}}><i class="fa-brands fa-linkedin mt-2 me-2 " style={{fontSize:"26px"}}></i>
+</a><a href="https://github.com/Sufailahmed" ><i class="fa-brands fa-github mt-2" style={{fontSize:"26px"}}></i></a>
 </div>
 
    <div className='skillBars'>
