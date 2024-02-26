@@ -15,7 +15,7 @@ function ContainerOutsideExample() {
         <div className='desktopMenu'>
           <Link className='desktopMenuList' activeClass='active' to='intro' spy={true} smooth={true} offset={-100} duration={200}   > Home</Link>
           <Link className='desktopMenuList' activeClass='active' to='skills' spy={true} smooth={true} offset={-50} duration={200} > About</Link>
-          <Link className='desktopMenuList' activeClass='active' to='works' spy={true} smooth={true} offset={-50} duration={200} > Projects</Link>
+          <Link className='desktopMenuList' activeClass='active' to='works' spy={true} smooth={true} offset={-70} duration={200} > Projects</Link>
 
         </div>
         <button className='desktopMenuBtn' onClick={() => {
