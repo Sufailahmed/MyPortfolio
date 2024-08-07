@@ -3,7 +3,7 @@ import './Intro.css'
 import { Link } from 'react-scroll'
 import pr from '../../assets/Full-Stack-Developer-Intern-at-Cactus.jpg'
 import resume from '../../assets/resume.png'
-import mycv from '../../assets/sufmerncv.pdf'
+import mycv from '../../assets/Ahammad Sufail Resume.pdf'
 import wen from '../../assets/wen.webp'
 import img from '../../assets/image.png'
 
